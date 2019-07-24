@@ -7,8 +7,9 @@ import {Grid, Cell,List,ListItem,ListItemContent} from 'react-mdl'
             <div className="contact-body">
                 <Grid className="contact-grid">
                     <Cell col={6}> <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and 
-                    more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsu
+                    Expert in Integration of highly transactional and scable
+                 applications using HTML,CSS,JavaScript,React,Angular JS.Innovative optimized solution seeker. Excited to be at the deployment phase of my career as a web developer. I am ambitious,
+                  adventurous, assiduous, animated, and an alliteration advocate.
                         
                         </p> </Cell>
                     <Cell col={6}> 
@@ -18,7 +19,7 @@ import {Grid, Cell,List,ListItem,ListItemContent} from 'react-mdl'
                     <List>
   <ListItem>
     <ListItemContent style={{fontFamily: 'Anton', 
-    fontSize: '30px'}}> <i className="fa fa-phone-square" aria-hidden="true"/>(559)618-0559</ListItemContent>
+    fontSize: '30px'}}> <i className="fa fa-phone-square" aria-hidden="true"/>(209) 643-0266</ListItemContent>
   </ListItem>
   <ListItem>
   <ListItemContent style={{fontFamily: 'Anton', 

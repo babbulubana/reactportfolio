@@ -11,7 +11,7 @@
     "react-scripts": "3.0.1",
     "react-spring": "^8.0.27"
   },
-  "homepage": "https://babbulubana.github.io/reactportfolio",
+  "homepage": "https://babbulubana.github.io/mywebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
